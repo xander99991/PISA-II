@@ -4,7 +4,7 @@
 
 Este proyecto mide la desigualdad de oportunidades educativas en los países de PISA 2025, con foco en Ecuador. Replica la metodología de Ferreira y Gignoux (2014, *World Bank Economic Review*) y la extiende con machine learning, análisis de clusters y un clasificador de riesgo de bajo desempeño.
 
-> Abre `lamina_resumen_iop_ecuador_pisa2025.html` en el navegador para ver el resumen visual del proyecto.
+> [Ver la lámina resumen del proyecto](https://xander99991.github.io/PISA-II/lamina_resumen_iop_ecuador_pisa2025.html)
 
 ---
 
