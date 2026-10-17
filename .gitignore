@@ -1,0 +1,11 @@
+# Ignorar todo por defecto...
+/*
+
+# ...excepto lo que se publica
+!/scripts/
+!/lamina_resumen_iop_ecuador_pisa2025.html
+!/README.md
+!/.gitignore
+
+# Dentro de scripts, ignorar archivos temporales
+scripts/.ipynb_checkpoints/
